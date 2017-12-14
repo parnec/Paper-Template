@@ -1,6 +1,6 @@
 
 
-# Logo Warehouse　 ![Language](https://img.shields.io/badge/format-doc/pdf/excel-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![AD](https://img.shields.io/badge/常用的-论文模板-ff69b4.svg)
+# Paper Template　 ![Travis](https://img.shields.io/travis/rust-lang/rust/master.svg) ![Language](https://img.shields.io/badge/format-doc/pdf/xls-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![AD](https://img.shields.io/badge/常用的-论文模板-ff69b4.svg)
 
 
 -----------------
