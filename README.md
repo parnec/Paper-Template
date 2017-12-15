@@ -24,13 +24,15 @@ MIT license. Contributions welcome.
 	     +--  ... ...         按目录存放论文模板
 
 
+
 ## Overview
 
+
 - [x] 计算机研究与发展
-- [] CCDM
-- [] IDEAL 9'
-- [] 计算机技术与发展 5‘
-- [] 计算技术与自动化 5’
+- [ ] CCDM
+- [ ] IDEAL 9'
+- [ ] 计算机技术与发展 5‘
+- [ ] 计算技术与自动化 5’
 
 
 ## Usage
