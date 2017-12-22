@@ -14,9 +14,9 @@ MIT license. Contributions welcome.
 
 	Paper-Template      根目录
 	     |
-	     +-- README.html      说明
+	     +-- README.md        说明
 	     |
-	     +-- LICENSE.html     证书
+	     +-- LICENSE.md       证书
 	     |
 	     +--  ... ...         按目录存放论文模板
 
