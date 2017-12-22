@@ -12,7 +12,7 @@ MIT license. Contributions welcome.
 
 ## Introduction
 
-	Paper-Template      根目录
+	Paper-Template        根目录
 	     |
 	     +-- README.md        说明
 	     |
