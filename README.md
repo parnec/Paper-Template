@@ -12,14 +12,11 @@ MIT license. Contributions welcome.
 
 ## Introduction
 
-	    Logo          根目录
-	     |
+	Paper-Template      根目录
 	     |
 	     +-- README.html      说明
 	     |
-	     |
 	     +-- LICENSE.html     证书
-	     |
 	     |
 	     +--  ... ...         按目录存放论文模板
 
